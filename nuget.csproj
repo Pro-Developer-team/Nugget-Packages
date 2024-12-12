@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework> <!-- Specify your target framework -->
-    <PackageId>example-nuget-package-2</PackageId> <!-- Replace with your package ID -->
+    <PackageId>example-nuget-package-3</PackageId> <!-- Replace with your package ID -->
     <Version>1.0.1</Version> <!-- Replace with your version -->
     <Authors>git-package-master</Authors> <!-- Replace with your name or organization -->
     <Company>Your Company</Company> <!-- Replace with your company name -->
