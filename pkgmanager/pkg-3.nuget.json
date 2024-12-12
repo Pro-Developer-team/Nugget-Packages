@@ -1,0 +1,22 @@
+{
+  "id": "{{*/**pkg?=any}}",
+  "version": "1.0.1",
+  "authors": [
+    "Your Name"
+  ],
+  "description": "A brief description of your package.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GIT-Package-Master/nugget"
+  },
+  "license": "MIT",
+  "tags": [
+    "tag1",
+    "tag2",
+    "tag3"
+  ],
+  "dependencies": {
+    "SomeDependency": "1.0.0"
+  },
+  "projectUrl": "https://github.com/GIT-Package-Master/nugget"
+}
